@@ -1,6 +1,6 @@
-### Hi there, my name is Vincent 👋
+### Hi there, my name is Vincent
 
-## I'm a full stack developer with a passion for problem solving ♟️ and learning 📖!
+## I'm a software developer with a passion for problem solving and learning!
 
 - I'm currently working on 
 
